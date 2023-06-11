@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="[https://media.graphassets.com/DjnuWw5sTxmGr4UCTbDZ](https://media.graphassets.com/bZ7rthR6S72hHWBzNMpw)" alt="multi-step-form pagina inicial">
+<img src="https://media.graphassets.com/DjnuWw5sTxmGr4UCTbDZ" alt="multi-step-form pagina inicial">
 
 > Meu primeiro desafio semanal da rocketseat, que se trata de um formulário com multiplos passos
 
