@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Drakest
 
-## Getting Started
+<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-First, run the development server:
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<img src="https://media.graphassets.com/DjnuWw5sTxmGr4UCTbDZ" alt="Drakest pagina inicial">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Esse projeto se trata de um site, com o intuito de ajudar pessoas a jogarem RPG de mesa mais especificamente Dungeons & Dragons.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Ajustes e melhorias
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-## Learn More
+- [x] Sistema de login com NextAuth
+- [x] Criação de personagens
+- [ ] Criação de salas
+- [ ] Interface das salas para facilitar a jogabilidade
 
-To learn more about Next.js, take a look at the following resources:
+## ☕ Usando Drakest
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Para usar Drakest, siga estas etapas:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Você pode entrar no site e para começar fazer login com o google, logo em seguida clique na imagem de usuario 
+para acessar a pagina de perfil onde você poderá criar, editar(ainda não fucionando) e excluir seus personagens. 
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
